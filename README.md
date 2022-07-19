@@ -1,5 +1,6 @@
 # cf-instacart
-Initial data and exploratory analysis of some of "Instacart's" data in order to derive insights and suggest strategies for better segmentation based on the provided criteria.
+Initial data and exploratory analysis of Instacarts data in order to derive insights and suggest strategies for better segmentation based on the provided criteria.
+
 ## Objective
 ![alt text](https://cdn.winsightmedia.com/platform/files/public/gb/News/Bashas-Launches-E-Commerce-Site-Powered-By-Instacart/800x1000/Instacart.jpg)
 
