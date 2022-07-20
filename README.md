@@ -22,4 +22,6 @@ The dataset comprises of information on the following parameters:
 ## Tools
 For this project, the following python libraries were used:
 * pandas - for data analysis
+* numpy - scientific computing
 * seaborn - for visualization
+* matplotlib - for visualization
